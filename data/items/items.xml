@@ -3324,6 +3324,7 @@
 		<attribute key="defense" value="11" />
 		<attribute key="attack" value="16" />
 		<attribute key="weaponType" value="club" />
+		<attribute key="classification" value="1" />
 	</item>
 	<item id="2399" article="a" name="throwing star">
 		<attribute key="weight" value="200" />
